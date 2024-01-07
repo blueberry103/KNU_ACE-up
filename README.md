@@ -2,10 +2,10 @@
 KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 ## 📑 프로젝트 소개 
-PILLGOOD
+**PILLGOOD**
 - The nutiritional dispenser automatically supplements according to the user's lifestyle.
 
-## 📅 제작 기간
+### 📅 제작 기간
 - 23.11.27 - 24.01.02 아이디어 회의, 3D 모델링 & 출력
 - 24.01.03 - 24.01.05 프로젝트 제작
 
@@ -19,5 +19,5 @@ PILLGOOD
 - **IDE**: Arduino IDE ver 1.8.19
 - **App**: Xcode15 -> Swift
 
-## ✔️ 주요 기능
+## ✔ 주요 기능
 - **py
