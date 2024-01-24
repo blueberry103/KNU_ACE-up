@@ -11,15 +11,20 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 - 23.11.27 - 24.01.02 아이디어 회의, 3D 모델링 & 출력
 - 24.01.03 - 24.01.05 프로젝트 제작
 
+
 ### 🔗 팀원 
-- 팀장 성수한: ios 앱, 아두이노 코드, ppt 제작 / 발표   @jamessung644
+- 팀장 성수한: ios 앱, 아두이노 코드, ppt 제작 / 발표
+  + GitHub: [jamessung644](https://github.com/jamessung644, "google link")
 - 팀원 노재현: 3D 모델링, 후가공 / 아두이노 회로, 코드, ppt 제작
+  + GitHub: [blueberry103](https://github.com/blueberry103, "google link")
 - 팀원 정재우: 자료조사, 제작 보조
+
 
 ### 🌐 개발 환경
 - **Main board**: ESP8266 NodeMCU
 - **IDE**: Arduino IDE ver 1.8.19
 - **App**: Xcode15 -> Swift
+
 
 ### ♾️ 주요 기능
 - **py
@@ -27,6 +32,7 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 
 - - - 
+
 ### 🗃️ 사진 자료
 
 <p align="left" width="100%">
