@@ -1,6 +1,7 @@
 # KNU_ACE+up
 KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
+- - - 
 ## 📑 프로젝트 소개 
 **PILLGOOD**
 - The nutiritional dispenser automatically supplements according to the user's lifestyle.
@@ -25,9 +26,14 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 
 
-* * *
-![circuit1](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23)
-***
-*****
 - - - 
------------------------------------------------------
+<figure class="half">  
+  <a href="link"><img src="[이미지경로](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23)"></a>  
+  <a href="link"><img src="[이미지경로](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485)"></a>  
+  <figcaption>2개이미지.</figcaption>
+</figure>
+
+![circuit1](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23)
+![circuit2 (1)](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485)
+![KakaoTalk_20240107_000251876_02 (1)](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/3f02f519-2424-44b3-b833-34cd13a49adc)
+
