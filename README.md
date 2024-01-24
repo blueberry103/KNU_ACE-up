@@ -30,11 +30,29 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 ### 🗃️ 사진 자료
 
 <p align="left" width="100%">
-    <img width="30%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23"> 
-    <img width="30%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485"> 
+    <img width="40%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23"> 
+    <img width="40%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485"> 
 </p>
 <p align="left" width="80%">
-    <img width="30%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/11093e5d-db02-424b-ada3-ac9507fb4959"> 
-    <img width="30%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/8f947f95-fb9c-49e0-baec-d78c038bd839"> 
+    <img width="40%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/11093e5d-db02-424b-ada3-ac9507fb4959"> 
+    <img width="40%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/8f947f95-fb9c-49e0-baec-d78c038bd839"> 
 </p>
+
+### 영상 자료
+
+
+
+https://github.com/blueberry103/KNU_ACE-up/assets/155829897/102da755-b50c-4a29-a90f-509241b018d9
+
+
+
+https://github.com/blueberry103/KNU_ACE-up/assets/155829897/c90e8775-5150-4d7b-b359-40e150f48c0e
+
+
+https://github.com/blueberry103/KNU_ACE-up/assets/155829897/d07096c2-1ada-449c-9fc5-c1a816eda8a6
+
+
+https://github.com/blueberry103/KNU_ACE-up/assets/155829897/db211b72-e06b-4d59-ad4d-97dc57b8dd1c
+
+
 
