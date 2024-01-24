@@ -31,14 +31,14 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 33% width each (_possibly_ a little too wide to fit all 3 images side-by-side, depending on your markdown viewer):
 <p align="center" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23"> 
+    <img width="33%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485"> 
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
 
 <figure class="half">  
-  <a href="link"><img src="[이미지경로](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23)"></a>  
-  <a href="link"><img src="[이미지경로](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485)"></a>  
+  <a href="link"><img src="[이미지경로]()"></a>  
+  <a href="link"><img src="[이미지경로]()"></a>  
   <figcaption>2개이미지.</figcaption>
 </figure>
 
