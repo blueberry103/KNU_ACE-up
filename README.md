@@ -26,9 +26,17 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 - **App**: Xcode15 -> Swift
 
 
+   
 ### ♾️ 주요 기능
-- **py
+- 앱을 통한 사용자 생활패턴 맞춤 영양제 사출
+- 저장된 영양제 정보를 이용한 영양제 추천
 
+
+### 💡 발전 사항
+- IOS -> Android 앱 개발
+- server-client 구조의 AP를 하나로 통일
+- 1:n 통신 기능
+- 영양제 사출방식 보완
 
 
 - - - 
