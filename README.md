@@ -64,9 +64,9 @@ https://github.com/blueberry103/KNU_ACE-up/assets/155829897/102da755-b50c-4a29-a
 
 ### 📑 기타
 <p align="left" width="100%">
-    <img width="33%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/10da608a-5190-4051-907f-dd358a768872"> 
-    <img width="33%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/0fd62361-7398-4204-a279-293ac789bacd"> 
-    <img width="33%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/2a386ce9-2d6e-41fa-83d0-7414891f04b3"> 
+    <img width="25%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/10da608a-5190-4051-907f-dd358a768872"> 
+    <img width="25%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/0fd62361-7398-4204-a279-293ac789bacd"> 
+    <img width="25%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/2a386ce9-2d6e-41fa-83d0-7414891f04b3"> 
 </p>
 
 
