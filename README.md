@@ -13,7 +13,7 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 
 ### 🔗 팀원 
-- 팀장 성수한: ios 앱, 아두이노 코드, ppt 제작 / 발표
+- 팀장 성수한: ios 앱, 아두이노 코드, 회로, ppt 제작 / 발표
   + GitHub: [jamessung644](https://github.com/jamessung644, "google link")
 - 팀원 노재현: 3D 모델링, 후가공 / 아두이노 회로, 코드, ppt 제작
   + GitHub: [blueberry103](https://github.com/blueberry103, "google link")
