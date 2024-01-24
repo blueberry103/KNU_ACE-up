@@ -21,15 +21,15 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 - **IDE**: Arduino IDE ver 1.8.19
 - **App**: Xcode15 -> Swift
 
-## ♾️ 주요 기능
+### ♾️ 주요 기능
 - **py
 
 
 
 - - - 
-## 🗃️ 사진 자료
+### 🗃️ 사진 자료
 
-<p align="left" width="100%">
+<p align="left" width="80%">
     <img width="40%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23"> 
     <img width="40%" src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/bb0a8c56-604e-465a-9b34-2c7dea0f9485"> 
 </p>
