@@ -27,4 +27,7 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 * * *
 ![circuit1](https://github.com/blueberry103/KNU_ACE-up/assets/155829897/df492488-a349-47ec-8afa-3ffda04c3d23)
-
+***
+*****
+- - - 
+-----------------------------------------------------
