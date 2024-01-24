@@ -40,15 +40,17 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 ### 영상 자료
 
-https://github.com/blueberry103/KNU_ACE-up/assets/155829897/102da755-b50c-4a29-a90f-509241b018d9
+
 
 https://github.com/blueberry103/KNU_ACE-up/assets/155829897/c90e8775-5150-4d7b-b359-40e150f48c0e
 
+https://github.com/blueberry103/KNU_ACE-up/assets/155829897/db211b72-e06b-4d59-ad4d-97dc57b8dd1c
 
 https://github.com/blueberry103/KNU_ACE-up/assets/155829897/d07096c2-1ada-449c-9fc5-c1a816eda8a6
 
+https://github.com/blueberry103/KNU_ACE-up/assets/155829897/102da755-b50c-4a29-a90f-509241b018d9
 
-https://github.com/blueberry103/KNU_ACE-up/assets/155829897/db211b72-e06b-4d59-ad4d-97dc57b8dd1c
+
 
 
 
