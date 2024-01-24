@@ -22,3 +22,8 @@ KNU arduino healthcare project (2023.11.27 - 2024.1.5)
 
 ## ♾️ 주요 기능
 - **py
+
+
+<img src="https://github.com/blueberry103/KNU_ACE-up/assets/155829897/6289af09-13d8-4a28-987d-b57248c0eba4.png" width="400" height="400"/>
+
+
